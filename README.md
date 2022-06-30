@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/dot-net"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/csharp"/>&nbsp;
+  <img src="[https://github.com/devicons/devicon/tree/master/icons/dot-net](https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg)"/>&nbsp;
+  <img src="[https://github.com/devicons/devicon/tree/master/icons/csharp](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)"/>&nbsp;
 </div>
