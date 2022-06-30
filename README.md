@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is <span style="color:#522a45">Thamiris Maria</span>, <br>
+My name is <span style="color:purple">Thamiris Maria</span>, <br>
 👩‍💻 I am a Computer Technician and <br>
 👩‍🎓 a Computer Science student.
 
