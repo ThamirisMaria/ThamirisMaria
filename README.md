@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Thamiris Maria,
-I am a Computer Technician and
+My name is Thamiris Maria, <br>
+I am a Computer Technician and <br>
 a Computer Science student.
 
 <!--
