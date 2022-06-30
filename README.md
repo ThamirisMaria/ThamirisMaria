@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/73439911/176590242-9db033c4-4aa5-4ac0-aa43-b0a4ca97965e.gif">
+
 My name is Thamiris Maria, <br>
 👩‍💻 I am a Computer Technician and <br>
 👩‍🎓 a Computer Science student.
-
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/73439911/176590242-9db033c4-4aa5-4ac0-aa43-b0a4ca97965e.gif">
 
 <!--
 **ThamirisMaria/ThamirisMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
