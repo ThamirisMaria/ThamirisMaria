@@ -23,3 +23,18 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamirisMaria&bg_color=522a45&title_color=fecf4b&text_color=c691e9"/>
 </a>
+
+<br/>
+<br/>
+<br/>
+
+---
+### 🏋️ My Practice Projects :
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ThamirisMaria&repo=CRUD-loja-de-carros&bg_color=522a45&title_color=fecf4b&text_color=c691e9"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ThamirisMaria&repo=commercial-system&bg_color=522a45&title_color=fecf4b&text_color=c691e9"/>
+</a>
