@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73439911/176584178-3e67282b-0a66-4846-a152-4045012cb713.svg" alt="css" height="50" width="50"/>&nbsp; | 
 <img src="https://user-images.githubusercontent.com/73439911/176584329-56924e91-e560-4c8e-921d-c0eabd6b481e.svg" alt="mysql" height="50" width="50"/>&nbsp;
 
+---
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThamirisMaria&theme=nightowl&hide_border=true&background=522A45&fire=FECF4B&ring=FECF4B&currStreakNum=C691E9&sideLabels=FECF4B&currStreakLabel=FECF4B&dates=C691E9)](https://git.io/streak-stats)
