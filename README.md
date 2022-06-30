@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
-![dot-net-original-wordmark](https://user-images.githubusercontent.com/73439911/176581909-3874342d-ba18-4529-bf6b-550ef3e96317.svg =25x25)
-
-![csharp-original](https://user-images.githubusercontent.com/73439911/176581777-b191f130-3b1a-4827-8041-6a6d030bcce8.svg)
+<img src="![dot-net-original-wordmark](https://user-images.githubusercontent.com/73439911/176581909-3874342d-ba18-4529-bf6b-550ef3e96317.svg)" alt="dot.net" width="25"/>
+<img src="![csharp-original](https://user-images.githubusercontent.com/73439911/176581777-b191f130-3b1a-4827-8041-6a6d030bcce8.svg)" alt="c-sharp" width="25"/>
