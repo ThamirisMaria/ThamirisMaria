@@ -1,25 +1,10 @@
 ### Hi there 👋
 
-<img align="right" width="300" height="250" src="https://user-images.githubusercontent.com/73439911/176591307-6ad8c851-23f1-41ee-8fd4-f3696483bd1a.gif">
-
 My name is Thamiris Maria, <br>
 👩‍💻 I am a Computer Technician and <br>
 👩‍🎓 a Computer Science student.
 
-<!--
-**ThamirisMaria/ThamirisMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="300" height="250" src="https://user-images.githubusercontent.com/73439911/176591307-6ad8c851-23f1-41ee-8fd4-f3696483bd1a.gif">
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
