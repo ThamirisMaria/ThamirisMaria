@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/dot-net"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/csharp"/>&nbsp;
+</div>
