@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Thamiris Maria,
+I am a Computer Technician and
+a Computer Science student.
+
 <!--
 **ThamirisMaria/ThamirisMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
