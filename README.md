@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ### 📊 My Stats :
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ThamirisMaria&theme=nightowl&hide_border=true&background=522A45&fire=FECF4B&ring=FECF4B&currStreakNum=C691E9&sideLabels=FECF4B&currStreakLabel=FECF4B&dates=C691E9"/>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ThamirisMaria&theme=nightowl&hide_border=true&background=522A45&fire=FECF4B&ring=FECF4B&currStreakNum=C691E9&sideLabels=FECF4B&currStreakLabel=FECF4B&dates=C691E9"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamirisMaria&bg_color=522a45&title_color=fecf4b&text_color=c691e9"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamirisMaria&bg_color=522a45&title_color=fecf4b&text_color=c691e9"/>
 </a>
