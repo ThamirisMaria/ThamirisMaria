@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThamirisMaria&theme=nightowl&hide_border=true&background=522A45&fire=FECF4B&ring=FECF4B&currStreakNum=C691E9&sideLabels=FECF4B&currStreakLabel=FECF4B&dates=C691E9)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamirisMaria&bg_color=522a45&title_color=fecf4b&text_color=c691e9)](https://github.com/anuraghazra/github-readme-stats)
+| ------------- | ------------- |
