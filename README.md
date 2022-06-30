@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-<img align="right" width="300" height="250" src="https://user-images.githubusercontent.com/73439911/176591307-6ad8c851-23f1-41ee-8fd4-f3696483bd1a.gif">
 ##### My name is Thamiris Maria, <br>
-##### 👩‍💻 I am a Computer Technician and <br>
+##### 👩‍💻 I am a Computer Technician and <br> <img align="right" width="300" height="220" src="https://user-images.githubusercontent.com/73439911/176591307-6ad8c851-23f1-41ee-8fd4-f3696483bd1a.gif">
 ##### 👩‍🎓 a Computer Science student.
 
 ---
