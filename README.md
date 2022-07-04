@@ -49,7 +49,7 @@
 <br />
 <br />
 
-### 🏋️ Practice Projects :
+### 🏋️ Practice Projects (check pinned) :
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThamirisMaria&repo=CRUD-loja-de-carros&bg_color=522a45&title_color=fecf4b&text_color=c691e9&icon_color=ffffff" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThamirisMaria&repo=commercial-system&bg_color=522a45&title_color=fecf4b&text_color=c691e9&icon_color=ffffff" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThamirisMaria&repo=trocadilhos-web-app&bg_color=522a45&title_color=fecf4b&text_color=c691e9&icon_color=ffffff" /></a> |
 | ------------- | ------------- | ------------- |
